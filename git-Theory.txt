@@ -1,0 +1,59 @@
+** GIT **
+1. GIT is an open source toll which is using as version control system(VCS) and parallely devloper works together in common repository.
+2. There are various VCS is available in thee market.
+1. GIT
+2. SVN Tortoise
+3. CVS
+3. The GIT is basically combination of two things.
+1. GIT Client
+2. GITHUB Repo
+
+
+
+Git = Git client + git Hub(A Repo which has to be created over cloud).
+
+
+
+4. There are various GIT command which is using for project management.
+1. git init
+2. git status
+3. git commit
+4. git push
+5. git add
+etc
+
+
+
+git --version = shows the version of the git
+
+
+
+pwd = shows current working directory.
+
+
+
+git init= for creating .git/ folder use this command/ to initialize empty reposiroty at local machine.
+it's mandatory to have .git/ folder. As all the local operations must be performed on this folder.
+
+
+
+we have to add all the files in the git working stage area using the git add. command.
+
+
+
+git status = to see the status of the file in staging area.
+git commit = to commit our changes to the repository.
+git show/log = to check the commit id and all. That we have commited.
+
+
+
+==================================================================================
+
+
+
+Assignment:
+
+
+
+After completion of all the assignment of today's. Create a new repo and push the complete project
+inside the repository using git bash commands.
